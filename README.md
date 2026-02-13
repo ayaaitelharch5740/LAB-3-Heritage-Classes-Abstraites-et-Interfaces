@@ -30,15 +30,15 @@ Ingénierie Logicielle Web avec PHP 7 : Architecture Multicouche et Accès aux D
 ## 💻 Environnement requis
 
 Structure de projet (à compléter) :
-'''
-project/
+```
+PhpProject3/
   public/
     index.php
   src/
     Entity/
     Contract/
     Service/
-'''
+```
 ---
 
 ## ▶️ Exemple d'exécution
